@@ -2,4 +2,4 @@ Introduction
 ============
 
 
-Fracta is a low-level, imperative systems programming language.
+Fracta is a systems programming language designed for performance, clarity and ease-of-use.
