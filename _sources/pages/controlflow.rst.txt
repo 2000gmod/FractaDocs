@@ -104,6 +104,10 @@ You may use ``switch`` statements to branch on a integer value or variant field.
         return 0;
     }
 
+
+Fracta by default will not allow fallthrough between cases, so the ``break`` keyword is not needed, as opposed to C.
+
+
 Loops
 -----
 
